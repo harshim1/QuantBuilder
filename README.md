@@ -1,6 +1,5 @@
-# React + Vite Template
+# React + Vite
 
-A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI.
 
 ## Project Structure
 
@@ -17,13 +16,6 @@ A modern React template for web applications and games, featuring React 18, Vite
 └── eslint.config.js     # ESLint configuration
 ```
 
-## Development Guidelines
-
-- Modify `index.html` and `src/App.jsx` as needed
-- Create new folders or files in `src/` directory as needed
-- Style components using TailwindCSS utility classes
-- Avoid modifying `src/main.jsx` and `src/index.css`
-- Only modify `vite.config.js` if absolutely necessary
 
 ## Available Scripts
 - `pnpm install` - Install dependencies
